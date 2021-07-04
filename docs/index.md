@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /aassets/Harden.jpg
+heroImage: /assets/Harden.jpg
 heroAlt: 
 heroText: xWANG
 tagline: 不忘初心牢记使命

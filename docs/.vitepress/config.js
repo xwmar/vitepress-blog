@@ -1,4 +1,5 @@
 module.exports = {
+    base: '',
     title: 'xWANG', // 网站标题
     description: 'Just playing around.', // 网站介绍
     themeConfig: {
