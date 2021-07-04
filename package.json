@@ -2,7 +2,7 @@
   "scripts": {
     "dev": "vitepress dev docs",
     "build": "vitepress build docs",
-    "serve": "vitepress serve docs"
+    "serve": "vitepress serve docs --port 5500"
   },
   "devDependencies": {
     "vitepress": "^0.15.5"
