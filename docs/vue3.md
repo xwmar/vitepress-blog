@@ -1,6 +1,6 @@
 ## Vue3 基础介绍
 
-![](assets/vue3/00.png)
+![](http://pic.qigou.top/vue3/00.png)
 
 ### 为什么要学习vue3
 
@@ -74,15 +74,15 @@ vue3.0对于2.0版本的大部分语法都是可以兼容的，但是也有一�
 
 1）选择自定义配置
 
-![](assets/vue3/01.png)
+![](http://pic.qigou.top/vue3/01.png)
 
 2）选中自定义安装版本
 
-![](assets/vue3/02.png)
+![](http://pic.qigou.top/vue3/02.png)
 
 3）选择3.x版本
 
-![](assets/vue3/03.png)
+![](http://pic.qigou.top/vue3/03.png)
 
 以上步骤回车之后，vue-cli会帮助我们跑起来一个内置了vue3版本的vue项目
 
@@ -137,9 +137,9 @@ options API开发出来的vue应用如左图所示，它的特点是理解容易
 
 composition API开发的vue应用如右图所示，它的特点是特定功能相关的所有东西都放到一起维护，比如功能A相关的响应式数据，操作数据的方法等放到一起，这样不管应用多大，都可以快读定位到某个功能的所有相关代码，维护方便，设置如果功能复杂，代码量大，我们还可以进行逻辑拆分处理
 
-![](assets/vue3/04.png)
+![](http://pic.qigou.top/vue3/04.png)
 
-​	<img src="assets/vue3/06.png" style="zoom:0%;" />
+​	<img src="http://pic.qigou.top/vue3/06.png" style="zoom:0%;" />
 
 **特别注意：**
 
@@ -155,7 +155,7 @@ composition API开发的vue应用如右图所示，它的特点是特定功能�
 
 #### 1. 理解需求
 
-<img src="assets/vue3/12.png" style="zoom:58%;" />
+<img src="http://pic.qigou.top/vue3/12.png" style="zoom:58%;" />
 
 俩个独立的功能：
 
@@ -719,7 +719,7 @@ export default {
 
 > 通常我们使用props进行父子之间的数据传递，但是如果组件嵌套层级较深，一层一层往下传递将会变的非常繁琐，有没有一种手段可以把这个过程简化一下呢，有的，就是我们马上要学习的provide 和 inject，它们配合起来可以方便的完成跨层传递数据
 
-![](assets/vue3/07.png)
+![](http://pic.qigou.top/vue3/07.png)
 
 ### 基础使用
 
@@ -727,7 +727,7 @@ export default {
 
 > 需求：爷组件中有一份数据 传递给孙组件直接使用
 
-![](assets/vue3/08.png)
+![](http://pic.qigou.top/vue3/08.png)
 
 **实现步骤**
 
@@ -887,7 +887,7 @@ export default {
 
 > 我们之前听说过模块复用，也听说过组件复用，现在我们来一个新的复用形式，叫做`逻辑复用`，逻辑复用是一个比较难理解的概念，我们先看下面的案例，在很多场景下在正式内容显示之前，为了用户体验，我们先展示一个loading图，数据返回之后，我们再让loading图隐藏
 
-<img src="assets/vue3/11.png" style="zoom:58%;" />
+<img src="http://pic.qigou.top/vue3/11.png" style="zoom:58%;" />
 
 ### 基础功能实现
 
