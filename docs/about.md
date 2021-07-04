@@ -9,8 +9,9 @@
 
 
 <!-- 样式 -->
-<style>
-.container[data-v-7f5fbed2]{
+<style lang="less">
+ .container[data-v-7f5fbed2],
+ .container[data-v-7eddb2c4] {
     max-width: 65rem;
 }
 </style>

@@ -1,7 +1,6 @@
 module.exports = {
     title: 'xWANG', // 网站标题
     description: 'Just playing around.', // 网站介绍
-    base: '/',
     themeConfig: {
         docsDir: 'docs',
         lastUpdated: '最后更新时间',
