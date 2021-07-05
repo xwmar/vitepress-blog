@@ -2,6 +2,10 @@ module.exports = {
     base: '',
     title: 'xWANG', // 网站标题
     description: 'Just playing around.', // 网站介绍
+    markdown: {
+        lineNumbers: true, // 显示代码块行号
+        // extractHeaders: [ 'h2', 'h3', 'h4' ]
+    },
     themeConfig: {
         docsDir: 'docs',
         lastUpdated: '最后更新时间',
@@ -25,7 +29,7 @@ module.exports = {
                     { text: 'JavaScript', link: '/interview/interview-js' },
                     { text: 'ES6新特性', link: '/interview/interview-es6'},
                     { text: 'Vue.js', link: '/interview/interview-vue' }
-                    
+
                 ]
             },
             { text: '归档', link: '/pigeonhole' },

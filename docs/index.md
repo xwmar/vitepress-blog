@@ -3,7 +3,7 @@ home: true
 heroImage: /assets/Harden.jpg
 heroAlt: 
 heroText: xWANG
-tagline: 不忘初心牢记使命
+tagline: It's dogged that does it.
 actionText: Get Started
 actionLink: /vue3.html
 features:

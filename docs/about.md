@@ -12,6 +12,12 @@
 <style lang="less">
  .container[data-v-7f5fbed2],
  .container[data-v-7eddb2c4] {
-    max-width: 65rem;
+    max-width: 60rem;
+}
+.sidebar > .sidebar-links > .sidebar-link + .sidebar-link{
+     padding-top: 0 !important ;
+}
+.sidebar[data-v-4e9236e4] {
+    width: 22rem;
 }
 </style>
