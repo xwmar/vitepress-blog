@@ -3,7 +3,7 @@ module.exports = {
     title: 'xWANG', // 网站标题
     description: 'Just playing around.', // 网站介绍
     markdown: {
-        lineNumbers: true, // 显示代码块行号
+        // lineNumbers: true, // 显示代码块行号
         // extractHeaders: [ 'h2', 'h3', 'h4' ]
     },
     themeConfig: {
