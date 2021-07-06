@@ -350,7 +350,7 @@ script标签存在两个属性，defer和async，因此 script标签 的使用�
 <script src="https://cdn.bootcdn.net/ajax/libs/element-ui/2.15.0/index.js"></script>
 ```
 
-10. 前端做本地数据存储的方式有哪些？
+## 10. 前端做本地数据存储的方式有哪些？
 
 ![](http://pic.qigou.top/html-image-20210209174438863.png)
 
