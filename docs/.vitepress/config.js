@@ -8,7 +8,7 @@ module.exports = {
     },
     themeConfig: {
         docsDir: 'docs',
-        lastUpdated: '最后更新时间',
+        // lastUpdated: '最后更新时间',
         // 头部导航
         nav: [
             {
