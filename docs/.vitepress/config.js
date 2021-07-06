@@ -14,9 +14,7 @@ module.exports = {
             {
                 text: 'Vue',
                 items: [
-                    { text: 'vue3入门', link: '/vue3' },
-                    { text: 'demo1', link: '/course1'},
-                    {text: 'demo2', link: '/course2'}
+                    { text: 'vue3入门', link: '/vue3' }
                 ]
             },
             { text: 'React.js', link: '/react-js' },
@@ -25,7 +23,8 @@ module.exports = {
                 text:
                     '面试题库',
                 items: [
-                    { text: 'H5C3', link: '/interview/interview-h5c3' },
+                    { text: 'HTML', link: '/interview/interview-html' },
+                    { text: 'CSS', link: '/interview/interview-css' },
                     { text: 'JavaScript', link: '/interview/interview-js' },
                     { text: 'ES6新特性', link: '/interview/interview-es6'},
                     { text: 'Vue.js', link: '/interview/interview-vue' }
