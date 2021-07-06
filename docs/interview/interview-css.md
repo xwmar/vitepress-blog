@@ -402,8 +402,6 @@ BFC 的全称是 Block Formatting Context，块级格式化上下文。这是一
 <div class="box2"></div>
 ```
 
-<img src="前端面试手册.assets/image-20210217142711472.png" alt="image-20210217142711472" style="zoom:50%;" />
-
 ![](http://pic.qigou.top/css-image-20210217142711472.png)
 
 下面我们让其中一个盒子触发BFC，从而达到间隔 20px 的期望效果：
