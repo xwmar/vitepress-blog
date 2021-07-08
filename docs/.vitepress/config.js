@@ -26,7 +26,7 @@ module.exports = {
                     { text: 'HTML', link: '/interview/interview-html' },
                     { text: 'CSS', link: '/interview/interview-css' },
                     { text: 'JavaScript', link: '/interview/interview-js' },
-                    { text: 'ES6新特性', link: '/interview/interview-es6'},
+                    { text: 'ES6/DOM', link: '/interview/interview-es6'},
                     { text: 'Vue.js', link: '/interview/interview-vue' },
                     { text: 'HTTP协议', link: '/interview/interview-http'}
 
